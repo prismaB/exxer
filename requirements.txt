@@ -1,0 +1,7 @@
+impacket
+pyfiglet
+cowsay
+self
+colorama
+requests
+urllib3
